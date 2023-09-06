@@ -1,6 +1,6 @@
 # Simulate the Orange Customer Connexion Webpage
 
-** For study purpose i try to make a fishing website to steal orange customer credential **
+**For study purpose i try to make a fishing website to steal orange customer credential**
 
 ## 1) Get the source code of the page
 
